@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner test</string>
+
+    <string-array name="person">
+        <item>Jayanta Dada</item>
+        <item>Joy</item>
+        <item>Adnan</item>
+        <item>Shahin</item>
+        <item>Piyal</item>
+        <item>Shibbir</item>
+    </string-array>
+
+</resources>
